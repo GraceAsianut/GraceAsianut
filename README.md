@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @GraceAsianut
+- 👀 I’m interested in learning all I can about data analysis
+- 🌱 I’m currently learning 
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+
