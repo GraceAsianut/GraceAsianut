@@ -21,5 +21,5 @@ Welcome to my portfolio, where I showcase my [projects](https://github.com/Grace
 
 ### 👋🏻 Connect with Me
 
-- [Linkedin](https://www.linkedin.com/in/grace-asianut-9671a318b/)
+- [LinkedIn](https://www.linkedin.com/in/grace-asianut-9671a318b/)
 - asianutg@gmail.com
