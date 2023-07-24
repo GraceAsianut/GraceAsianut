@@ -1,6 +1,6 @@
 ## 🙋🏻‍♀️ Introducing Myself
 
-![Brown and Gray Simple Personal LinkedIn Banner](https://github.com/katiehuangx/katiehuangx/assets/81607668/bad4dc56-1211-41ed-99a7-1bccea77bd72)
+![Brown and Gray Simple Personal LinkedIn Banner](https://github.com/GraceAsianut/Assets/blob/main/Banner1.png)
 
 Hello, I'm Grace. Data Analyst with expertise in data analysis and reporting, query optimization, database design, and data modelling. 
 
