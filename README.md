@@ -2,7 +2,7 @@
 
 ![Brown and Gray Simple Personal LinkedIn Banner](https://github.com/GraceAsianut/Assets/blob/main/Banner1.png)
 
-Hello, I'm Grace. Data Analyst with experience in data analysis and reporting, query optimization, database design, and data modelling. 
+Hello, I'm Grace. Data Analyst with experience in data analysis and reporting, query optimization, database design, and data modelling and visualization. 
 
 - Querying data using SQL.
 - Generate reports and perform ad-hoc data analysis using SQL.
