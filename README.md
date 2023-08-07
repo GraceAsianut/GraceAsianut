@@ -2,7 +2,11 @@
 
 ![Brown and Gray Simple Personal LinkedIn Banner](https://github.com/GraceAsianut/Assets/blob/main/Banner1.png)
 
-Hello, I'm Grace. Data Analyst with experience in data analysis and reporting, query optimization, database design, and data modelling and visualization. 
+### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I'm **Grace** and welcome to my GitHub profile! :octocat:
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Wei+Huang&duration=2000&pause=300&width=435&lines=I'm+a+data+enthusiast;Currently+practicing+data+analysis;And+excited+for+what's+next!!)](https://git.io/typing-svg)
+
+I have experience in data analysis and reporting, query optimization, database design, and data modelling and visualization. 
 
 - Querying data using SQL.
 - Generate reports and perform ad-hoc data analysis using SQL.
